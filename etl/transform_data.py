@@ -25,13 +25,23 @@ class TransformDataSancoes():
             for index, line in df.iterrows():
                 #---- criar condicao para cada sancao -------
                 # Construir a instrução SQL de inserção
-                sql_insert_datas = f"INSERT INTO {tabela} (id, nome, idade)\
+                if name_folder_inserts == 'acordo_leniencia':
+                    sql_insert_datas = f"INSERT INTO {tabela} (id, nome, idade)\
                                         VALUES ({line['id']}, '{line['nome']}', {line['idade']})\
                                         ON CONFLICT (id) DO UPDATE\
                                         SET nome = EXCLUDED.nome,\
                                         idade = EXCLUDED.idade;\n"
-                # Escrever a instrução SQL no arquivo
-                file_sql.write(sql_insert_datas)
+                    #Escrever a instrução SQL no arquivo
+                    file_sql.write(sql_insert_datas)
+                
+                elif name_folder_inserts == '':
+                    pass
+                
+                elif name_folder_inserts == '':
+                    pass
+                
+                elif name_folder_inserts == '':
+                    pass
 
         print(f"As inserções SQL foram escritas em '{file_name}'.")
     
