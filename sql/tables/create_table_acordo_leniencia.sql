@@ -1,5 +1,5 @@
 CREATE TABLE IF NOT EXISTS sancoes.acordo_leniencia (
-    skAcordoLeniencia INT PRIMARY KEY,
+    skAcordoLeniencia INT,
     dataInicioAcordo DATE,
     dataFimAcordo DATE,
     orgaoResponsavel TEXT,
@@ -7,8 +7,8 @@ CREATE TABLE IF NOT EXISTS sancoes.acordo_leniencia (
     nomeInformadoOrgaoResponsavel TEXT,
     razaoSocial TEXT,
     nomeFantasia TEXT,
-    cnpj TEXT,
-    cnpjFormatado TEXT,
+    cnpj VARCHAR(20),
+    cnpjFormatado VARCHAR(14),
     DataDaCarga TIMESTAMP,
-    ArquivoFonte TEXT
+    ArquivoFonte VARCHAR(30)
 );

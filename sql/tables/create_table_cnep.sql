@@ -1,15 +1,15 @@
 CREATE TABLE IF NOT EXISTS sancoes.cnep (
-    skSancao BIGSERIAL PRIMARY KEY,
-    cadastro TEXT,
-    cpfCnpj TEXT,
+    skSancao INT,
+    cadastro VARCHAR(10),
+    cpfCnpj VARCHAR(20),
     nomeSancionado TEXT,
-    ufSancionado TEXT,
+    ufSancionado VARCHAR(2),
     categoriaSancao TEXT,
     orgao TEXT,
-    dataPublicacao DATE,
+    dataPublicacao VARCHAR(20),
     linkDetalhamento TEXT,
-    TipoDePessoa TEXT,
-    cpfCnpjFormatado TEXT,
+    TipoDePessoa VARCHAR(1),
+    cpfCnpjFormatado VARCHAR(14),
     DataDaCarga TIMESTAMP,
-    ArquivoFonte TEXT
+    ArquivoFonte VARCHAR(30)
 );

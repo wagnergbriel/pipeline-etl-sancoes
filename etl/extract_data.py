@@ -6,8 +6,9 @@ import requests
 import json
 
 class SancoesAPI:
-    def __init__(self, id_sancao):
-        self.base_url = f'https://portaldatransparencia.gov.br/sancoes/consulta/resultado?paginacaoSimples=true&tamanhoPagina=100000&offset=0&direcaoOrdenacao=asc&colunaOrdenacao=nomeSancionado&cadastro={id_sancao}&colunasSelecionadas=linkDetalhamento%2Ccadastro%2CcpfCnpj%2CnomeSancionado%2CufSancionado%2Corgao%2CcategoriaSancao%2CdataPublicacao%2CvalorMulta%2Cquantidade&_=1695667939978'
+    def __init__(self, name_sancao):
+        self.type_sancao = {"ceis":1, "cnpe":2, "cepim":5}
+        self.base_url = f'https://portaldatransparencia.gov.br/sancoes/consulta/resultado?paginacaoSimples=true&tamanhoPagina=100000&offset=0&direcaoOrdenacao=asc&colunaOrdenacao=nomeSancionado&cadastro={self.type_sancao.get(name_sancao)}&colunasSelecionadas=linkDetalhamento%2Ccadastro%2CcpfCnpj%2CnomeSancionado%2CufSancionado%2Corgao%2CcategoriaSancao%2CdataPublicacao%2CvalorMulta%2Cquantidade&_=1695667939978'
         self.headers = config.HEADERS
         self.datetime_now = datetime.now().strftime("%m%Y")
     
@@ -70,21 +71,22 @@ path_datas_cepim = './data_raw/cepim'
 path_datas_cnep = './data_raw/cnep'
 path_datas_acordo_leniencia = './data_raw/acordo_leniencia'
 
-api_ceis = SancoesAPI(id_sancao=1)
+name_sancao = "ceis"
+api_ceis = SancoesAPI(name_sancao=name_sancao)
 data_ceis = api_ceis.get_sancoes()
 api_ceis.save_json_file(dataset=data_ceis,
                             path_dir=path_datas_ceis,
                             file_name="ceis"
                             )
 
-api_cnep = SancoesAPI(id_sancao=2)
+api_cnep = SancoesAPI(ame_sancao=name_sancao)
 data_cnep = api_cnep.get_sancoes()
 api_cnep.save_json_file(dataset=data_cnep,
                             path_dir=path_datas_cnep,
                             file_name="cnep"
                             )
 
-api_cepim = SancoesAPI(id_sancao=5)
+api_cepim = SancoesAPI(name_sancao=name_sancao)
 data_cepim = api_cepim.get_sancoes()
 api_cepim.save_json_file(dataset=data_cepim,
                             path_dir=path_datas_cepim,
