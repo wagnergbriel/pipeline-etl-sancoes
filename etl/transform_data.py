@@ -26,65 +26,47 @@ class TransformDataSancoes():
         path_inserts_full = join(self.folder_inserts, file_name)
         for line in df.to_dict("records"):
             if self.name_folder_inserts == 'acordo_leniencia':
-                insert = f"""INSERT INTO sancoes.acordo_leniencia (id, dataInicioAcordo, dataFimAcordo, orgaoResponsavel, situacaoAcordo, nomeInformadoOrgaoResponsavel, razaoSocial, nomeFantasia, cnpj, cnpjFormatado, DataDaCarga, ArquivoFonte) VALUES\
-                    ({line['id']},'{line['dataInicioAcordo']}', '{line['dataFimAcordo']}', '{line['orgaoResponsavel']}', '{line['situacaoAcordo']}', '{line['nomeInformadoOrgaoResponsavel']}', '{line['razaoSocial']}', '{line['nomeFantasia']}', '{line['cnpj']}', '{line['cnpjFormatado']}', '{line['DataDaCarga']}', '{line['ArquivoFonte']}')\
-                        ON CONFLICT (skAcordoLeniencia) DO UPDATE
-                                    SET dataInicioAcordo = EXCLUDED.dataInicioAcordo,
-                                    dataFimAcordo = EXCLUDED.dataFimAcordo,
-                                    orgaoResponsavel = EXCLUDED.orgaoResponsavel,
-                                    situacaoAcordo = EXCLUDED.situacaoAcordo,
-                                    nomeInformadoOrgaoResponsavel = EXCLUDED.nomeInformadoOrgaoResponsavel,
-                                    razaoSocial = EXCLUDED.razaoSocial,
-                                    nomeFantasia = EXCLUDED.nomeFantasia,
-                                    cnpj = EXCLUDED.cnpj,
-                                    cnpjFormatado = EXCLUDED.cnpjFormatado,
-                                    DataDaCarga = EXCLUDED.DataDaCarga,
-                                    ArquivoFonte = EXCLUDED.ArquivoFonte;\n"""
+                insert = f"""({line['id']},'{line['dataInicioAcordo']}', '{line['dataFimAcordo']}', '{line['orgaoResponsavel']}', '{line['situacaoAcordo']}', '{line['nomeInformadoOrgaoResponsavel']}', '{line['razaoSocial']}', '{line['nomeFantasia']}', '{line['cnpj']}', '{line['cnpjFormatado']}', '{line['DataDaCarga']}', '{line['ArquivoFonte']}')"""
                 list_data_insert.append(insert)
+            
             elif self.name_folder_inserts in ['ceis', 'cnep']:
-                insert = f"""INSERT INTO sancoes.{self.name_folder_inserts} (skSancao, cadastro, cpfCnpj, nomeSancionado, ufSancionado, categoriaSancao, orgao, dataPublicacao, linkDetalhamento, TipoDePessoa, cpfCnpjFormatado, DataDaCarga, ArquivoFonte) VALUES\
-                    ({line['skSancao']},'{line['cadastro']}', '{line['cpfCnpj']}', '{line['nomeSancionado']}', '{line['ufSancionado']}', '{line['categoriaSancao']}', '{line['orgao']}', '{line['dataPublicacao']}', '{line['linkDetalhamento']}', '{line['TipoDePessoa']}', '{line['cpfCnpjFormatado']}', '{line['DataDaCarga']}', '{line['ArquivoFonte']}')\
-                        ON CONFLICT (skSancao) DO UPDATE
-                                SET cadastro = EXCLUDED.cadastro,
-                                cpfCnpj = EXCLUDED.cpfCnpj,
-                                nomeSancionado = EXCLUDED.nomeSancionado,
-                                ufSancionado = EXCLUDED.ufSancionado,
-                                categoriaSancao = EXCLUDED.categoriaSancao,
-                                orgao = EXCLUDED.orgao,
-                                dataPublicacao = EXCLUDED.dataPublicacao,
-                                linkDetalhamento = EXCLUDED.linkDetalhamento,
-                                TipoDePessoa = EXCLUDED.TipoDePessoa,
-                                cpfCnpjFormatado = EXCLUDED.cpfCnpjFormatado,
-                                DataDaCarga = EXCLUDED.DataDaCarga,
-                                ArquivoFonte = EXCLUDED.ArquivoFonte;\n"""
+                insert = f"""({line['skSancao']},'{line['cadastro']}', '{line['cpfCnpj']}', '{line['nomeSancionado']}', '{line['ufSancionado']}', '{line['categoriaSancao']}', '{line['orgao']}', '{line['dataPublicacao']}', '{line['linkDetalhamento']}', '{line['TipoDePessoa']}', '{line['cpfCnpjFormatado']}', '{line['DataDaCarga']}', '{line['ArquivoFonte']}')"""
                 list_data_insert.append(insert)
 
             elif self.name_folder_inserts == 'cepim':
-                insert = f"""INSERT INTO sancoes.{self.name_folder_inserts} (skSancao, cadastro, cpfCnpj, nomeSancionado, ufSancionado, categoriaSancao, orgao, dataPublicacao, linkDetalhamento, TipoDePessoa, cpfCnpjFormatado, DataDaCarga, ArquivoFonte) VALUES\
-                    ({line['skFatCepim']},'{line['cadastro']}', '{line['cpfCnpj']}', '{line['nomeSancionado']}', '{line['ufSancionado']}', '{line['categoriaSancao']}', '{line['orgao']}', '{line['dataPublicacao']}', '{line['linkDetalhamento']}', '{line['TipoDePessoa']}', '{line['cpfCnpjFormatado']}', '{line['DataDaCarga']}', '{line['ArquivoFonte']}')\
-                        ON CONFLICT (skSancao) DO UPDATE
-                                SET cadastro = EXCLUDED.cadastro,
-                                cpfCnpj = EXCLUDED.cpfCnpj,
-                                nomeSancionado = EXCLUDED.nomeSancionado,
-                                ufSancionado = EXCLUDED.ufSancionado,
-                                categoriaSancao = EXCLUDED.categoriaSancao,
-                                orgao = EXCLUDED.orgao,
-                                dataPublicacao = EXCLUDED.dataPublicacao,
-                                linkDetalhamento = EXCLUDED.linkDetalhamento,
-                                TipoDePessoa = EXCLUDED.TipoDePessoa,
-                                cpfCnpjFormatado = EXCLUDED.cpfCnpjFormatado,
-                                DataDaCarga = EXCLUDED.DataDaCarga,
-                                ArquivoFonte = EXCLUDED.ArquivoFonte;\n"""
+                insert = f"""({line['skFatCepim']},'{line['cadastro']}', '{line['cpfCnpj']}', '{line['nomeSancionado']}', '{line['ufSancionado']}', '{line['categoriaSancao']}', '{line['orgao']}', '{line['dataPublicacao']}', '{line['linkDetalhamento']}', '{line['TipoDePessoa']}', '{line['cpfCnpjFormatado']}', '{line['DataDaCarga']}', '{line['ArquivoFonte']}')"""
                 list_data_insert.append(insert)
             else:
                 print("The insert file can't be generate!")
         
         if self.name_folder_inserts == 'acordo_leniencia':
             with open(path_inserts_full, 'w') as file_sql:
-                file_sql.writelines(list_data_insert)
+                values_sql = ",\n".join(list_data_insert)
+                insert_into = """INSERT INTO sancoes.acordo_leniencia (skAcordoLeniencia, dataInicioAcordo, dataFimAcordo, orgaoResponsavel, situacaoAcordo, nomeInformadoOrgaoResponsavel, razaoSocial, nomeFantasia, cnpj, cnpjFormatado, DataDaCarga, ArquivoFonte) VALUES\n"""
+                on_duplicate = """\nON CONFLICT (cnpjFormatado) DO NOTHING;"""
+                file_sql.write(insert_into)
+                file_sql.writelines(values_sql)
+                file_sql.write(on_duplicate)
         else:
             with open(path_inserts_full, 'w') as file_sql:
-                file_sql.writelines(list_data_insert)
+                values_sql = ",\n".join(list_data_insert)
+                insert_into = f"""INSERT INTO sancoes.{self.name_folder_inserts} (skSancao, cadastro, cpfCnpj, nomeSancionado, ufSancionado, categoriaSancao, orgao, dataPublicacao, linkDetalhamento, TipoDePessoa, cpfCnpjFormatado, DataDaCarga, ArquivoFonte) VALUES\n"""
+                on_duplicate = """\nON CONFLICT (skSancao) DO UPDATE
+                                SET cadastro = EXCLUDED.cadastro,
+                                cpfCnpj = EXCLUDED.cpfCnpj,
+                                nomeSancionado = EXCLUDED.nomeSancionado,
+                                ufSancionado = EXCLUDED.ufSancionado,
+                                categoriaSancao = EXCLUDED.categoriaSancao,
+                                orgao = EXCLUDED.orgao,
+                                dataPublicacao = EXCLUDED.dataPublicacao,
+                                linkDetalhamento = EXCLUDED.linkDetalhamento,
+                                TipoDePessoa = EXCLUDED.TipoDePessoa,
+                                cpfCnpjFormatado = EXCLUDED.cpfCnpjFormatado,
+                                DataDaCarga = EXCLUDED.DataDaCarga,
+                                ArquivoFonte = EXCLUDED.ArquivoFonte;"""
+                file_sql.write(insert_into)
+                file_sql.writelines(values_sql)
+                file_sql.write(on_duplicate)
         
         print(f"The SQL inserts were written in '{file_name}'.")
     
@@ -150,6 +132,7 @@ class TransformDataSancoes():
 
 
 
-path_datas_ceis = 'cepim'
+path_datas_ceis = 'cnep'
 test = TransformDataSancoes(name_folder_data_raw=path_datas_ceis, name_folder_inserts=path_datas_ceis)
 test.transform_datas_sancoes()
+#test.transform_datas_acordo_leniencia()

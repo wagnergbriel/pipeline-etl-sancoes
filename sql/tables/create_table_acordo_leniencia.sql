@@ -8,7 +8,7 @@ CREATE TABLE IF NOT EXISTS sancoes.acordo_leniencia (
     razaoSocial TEXT,
     nomeFantasia TEXT,
     cnpj VARCHAR(20),
-    cnpjFormatado VARCHAR(14),
+    cnpjFormatado VARCHAR(20) UNIQUE,
     DataDaCarga TIMESTAMP,
     ArquivoFonte VARCHAR(30)
 );

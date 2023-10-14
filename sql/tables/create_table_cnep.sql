@@ -1,5 +1,5 @@
 CREATE TABLE IF NOT EXISTS sancoes.cnep (
-    skSancao INT,
+    skSancao INT UNIQUE,
     cadastro VARCHAR(10),
     cpfCnpj VARCHAR(20),
     nomeSancionado TEXT,
@@ -9,7 +9,7 @@ CREATE TABLE IF NOT EXISTS sancoes.cnep (
     dataPublicacao VARCHAR(20),
     linkDetalhamento TEXT,
     TipoDePessoa VARCHAR(1),
-    cpfCnpjFormatado VARCHAR(14),
+    cpfCnpjFormatado VARCHAR(20),
     DataDaCarga TIMESTAMP,
     ArquivoFonte VARCHAR(30)
 );
