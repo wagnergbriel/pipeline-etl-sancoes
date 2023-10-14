@@ -60,24 +60,8 @@ class PortalTransparenciaAPI():
             json.dump(dataset, file_json, ensure_ascii=False, indent=4)
         print(f"Create file Json in {path_full}")
 
-"""
-Numbers reference type sactions
-CEIS - 1
-CNEP - 2
-CEPIM - 5
-"""
-path_datas_ceis = './data_raw/ceis'
-path_datas_cepim = './data_raw/cepim'
-path_datas_cnep = './data_raw/cnep'
-path_datas_acordo_leniencia = './data_raw/acordo_leniencia'
 
-name_sancao = "ceis"
-api_ceis = SancoesAPI(name_sancao=name_sancao)
-data_ceis = api_ceis.get_sancoes()
-api_ceis.save_json_file(dataset=data_ceis,
-                            path_dir=path_datas_ceis,
-                            file_name="ceis"
-                            )
+
 
 api_cnep = SancoesAPI(ame_sancao=name_sancao)
 data_cnep = api_cnep.get_sancoes()

@@ -129,10 +129,3 @@ class TransformDataSancoes():
         new_df["DataDaCarga"] = self.date_time
         new_df["ArquivoFonte"] = file
         self.create_insert_datas(new_df)
-
-
-
-path_datas_ceis = 'cnep'
-test = TransformDataSancoes(name_folder_data_raw=path_datas_ceis, name_folder_inserts=path_datas_ceis)
-test.transform_datas_sancoes()
-#test.transform_datas_acordo_leniencia()

@@ -12,7 +12,3 @@ class LoadDataSancoes():
         latest_file = max(file, key=lambda f: os.path.getmtime(os.path.join(self.folder_inserts, f)))
         path_full_file = join(self.folder_inserts, latest_file)
         return path_full_file
-
-x = LoadDataSancoes(name_folder_inserts="ceis")
-path = x.get_file_datas()
-print(path)
