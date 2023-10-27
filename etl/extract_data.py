@@ -1,7 +1,7 @@
 from urllib.parse import urljoin
 from os.path import join
 from datetime import datetime
-import config
+from config import HEADERS, KEY_API
 import requests
 import json
 
@@ -9,7 +9,7 @@ class SancoesAPI:
     def __init__(self, name_sancao):
         self.type_sancao = {"ceis":1, "cnpe":2, "cepim":5}
         self.base_url = f'https://portaldatransparencia.gov.br/sancoes/consulta/resultado?paginacaoSimples=true&tamanhoPagina=100000&offset=0&direcaoOrdenacao=asc&colunaOrdenacao=nomeSancionado&cadastro={self.type_sancao.get(name_sancao)}&colunasSelecionadas=linkDetalhamento%2Ccadastro%2CcpfCnpj%2CnomeSancionado%2CufSancionado%2Corgao%2CcategoriaSancao%2CdataPublicacao%2CvalorMulta%2Cquantidade&_=1695667939978'
-        self.headers = config.HEADERS
+        self.headers = HEADERS
         self.datetime_now = datetime.now().strftime("%m%Y")
     
     def get_sancoes(self):
@@ -40,7 +40,7 @@ class PortalTransparenciaAPI():
         while True:
             url_full_all_data = urljoin(self.url, f"?pagina={number_page}")
             print(f"Url will be connect: {url_full_all_data}")
-            response = requests.get(url_full_all_data, headers={"chave-api-dados":config.KEY_API})
+            response = requests.get(url_full_all_data, headers={"chave-api-dados":KEY_API})
             if response.status_code == 200:
                 datas = response.json()
                 if len(datas) == 0:
@@ -63,7 +63,7 @@ class PortalTransparenciaAPI():
 
 
 
-api_cnep = SancoesAPI(ame_sancao=name_sancao)
+"""api_cnep = SancoesAPI(name_sancao=name_sancao)
 data_cnep = api_cnep.get_sancoes()
 api_cnep.save_json_file(dataset=data_cnep,
                             path_dir=path_datas_cnep,
@@ -82,4 +82,4 @@ datas = api_portal.get_all_data()
 api_portal.save_json_file(dataset=datas,
                             path_dir=path_datas_acordo_leniencia,
                             file_name="acordo_leniencia"
-                            )
+                            )"""
