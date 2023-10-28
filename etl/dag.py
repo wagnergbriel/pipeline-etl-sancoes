@@ -17,8 +17,8 @@ def extract_ceis_data():
                             file_name="ceis")
 
 def transform_ceis_data():
-    path_datas_ceis = './data_raw/ceis'  # Isso parece um erro, pois você já definiu 'path_datas_ceis' anteriormente
-    data_t = TransformDataSancoes(name_folder_data_raw=path_datas_ceis, name_folder_inserts=path_datas_ceis)
+    name_folder = 'ceis'
+    data_t = TransformDataSancoes(name_folder_data_raw=name_folder, name_folder_inserts=name_folder)
     data_t.transform_datas_sancoes()
     # data_t.transform_datas_acordo_leniencia()
 
