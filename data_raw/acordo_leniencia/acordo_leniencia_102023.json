@@ -1,0 +1,1153 @@
+[
+    {
+        "id": 1000005,
+        "dataInicioAcordo": "14/11/2019",
+        "dataFimAcordo": "31/12/2047",
+        "orgaoResponsavel": "Controladoria-Geral da União",
+        "situacaoAcordo": "Em Execução",
+        "sancoes": [
+            {
+                "nomeInformadoOrgaoResponsavel": "CONSTRUTORA COESA S.A. - EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "CONSTRUTORA COESA S.A. - EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "14310577000104",
+                "cnpjFormatado": "14.310.577/0001-04"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "COESA ENGENHARIA LTDA. - EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "COESA ENGENHARIA LTDA. - EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "COESA",
+                "cnpj": "13578349000157",
+                "cnpjFormatado": "13.578.349/0001-57"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "METHA S.A",
+                "razaoSocial": "METHA S.A",
+                "nomeFantasia": "",
+                "cnpj": "14811848000105",
+                "cnpjFormatado": "14.811.848/0001-05"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "INVICTA DEFESA SA",
+                "razaoSocial": "INVICTA DEFESA SA",
+                "nomeFantasia": "OAS DEFESA S. A.",
+                "cnpj": "15806518000194",
+                "cnpjFormatado": "15.806.518/0001-94"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "OAS OLEO E GAS S.A.",
+                "razaoSocial": "OAS OLEO E GAS S.A.",
+                "nomeFantasia": "",
+                "cnpj": "11866604000131",
+                "cnpjFormatado": "11.866.604/0001-31"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "COESA LOGISTICA E COMERCIO EXTERIOR S.A.  - EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "COESA LOGISTICA E COMERCIO EXTERIOR S.A.  - EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "18738703000187",
+                "cnpjFormatado": "18.738.703/0001-87"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "OAS EMPREENDIMENTOS S.A.",
+                "razaoSocial": "OAS EMPREENDIMENTOS S.A.",
+                "nomeFantasia": "",
+                "cnpj": "06324922000130",
+                "cnpjFormatado": "06.324.922/0001-30"
+            }
+        ],
+        "quantidade": 7
+    },
+    {
+        "id": 1000002,
+        "dataInicioAcordo": "09/07/2018",
+        "dataFimAcordo": "31/10/2039",
+        "orgaoResponsavel": "Controladoria-Geral da União",
+        "situacaoAcordo": "Em Execução",
+        "sancoes": [
+            {
+                "nomeInformadoOrgaoResponsavel": "FUNDACAO NORBERTO ODEBRECHT",
+                "razaoSocial": "FUNDACAO NORBERTO ODEBRECHT",
+                "nomeFantasia": "",
+                "cnpj": "15116155000165",
+                "cnpjFormatado": "15.116.155/0001-65"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ENSEADA INDUSTRIA NAVAL PARTICIPACOES S.A EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "ENSEADA INDUSTRIA NAVAL PARTICIPACOES S.A EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "15427668000197",
+                "cnpjFormatado": "15.427.668/0001-97"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ODB Infra-Estruturas Logísticas SGPSSA",
+                "razaoSocial": "",
+                "nomeFantasia": "",
+                "cnpj": "EXODB",
+                "cnpjFormatado": "EXODB"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ATVOS AGROINDUSTRIAL INVESTIMENTOS S.A",
+                "razaoSocial": "ATVOS AGROINDUSTRIAL INVESTIMENTOS S.A",
+                "nomeFantasia": "",
+                "cnpj": "11218273000123",
+                "cnpjFormatado": "11.218.273/0001-23"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "HORIENS CONSULTORIA E CORRETORA DE SEGUROS LTDA",
+                "razaoSocial": "HORIENS CONSULTORIA E CORRETORA DE SEGUROS LTDA",
+                "nomeFantasia": "",
+                "cnpj": "14588248000120",
+                "cnpjFormatado": "14.588.248/0001-20"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NPI S.A. - EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "NPI S.A. - EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "17337615000100",
+                "cnpjFormatado": "17.337.615/0001-00"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "OCYAN S.A.",
+                "razaoSocial": "OCYAN S.A.",
+                "nomeFantasia": "OCYAN",
+                "cnpj": "08091102000252",
+                "cnpjFormatado": "08.091.102/0002-52"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NOVONOR PARTICIPACOES E INVESTIMENTOS S.A. - EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "NOVONOR PARTICIPACOES E INVESTIMENTOS S.A. - EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "07668258000100",
+                "cnpjFormatado": "07.668.258/0001-00"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "OTP S.A.",
+                "razaoSocial": "OTP S.A.",
+                "nomeFantasia": "",
+                "cnpj": "12251483000186",
+                "cnpjFormatado": "12.251.483/0001-86"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "KIEPPE PARTICIPACOES E ADMINISTRACAO LTDA EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "KIEPPE PARTICIPACOES E ADMINISTRACAO LTDA EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "04215837000109",
+                "cnpjFormatado": "04.215.837/0001-09"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NOVONOR DEFESA E TECNOLOGIA S.A.",
+                "razaoSocial": "NOVONOR DEFESA E TECNOLOGIA S.A.",
+                "nomeFantasia": "",
+                "cnpj": "13688755000172",
+                "cnpjFormatado": "13.688.755/0001-72"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "VEXTY",
+                "razaoSocial": "VEXTY",
+                "nomeFantasia": "VEXTY",
+                "cnpj": "00571135000107",
+                "cnpjFormatado": "00.571.135/0001-07"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NOVONOR ENERGIA INVESTIMENTOS S.A. - EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "NOVONOR ENERGIA INVESTIMENTOS S.A. - EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "20541146000151",
+                "cnpjFormatado": "20.541.146/0001-51"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NSP INVESTIMENTOS S.A. - EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "NSP INVESTIMENTOS S.A. - EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "22606673000122",
+                "cnpjFormatado": "22.606.673/0001-22"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "FAZENDAS REUNIDAS VALE DO JULIANA S/A",
+                "razaoSocial": "FAZENDAS REUNIDAS VALE DO JULIANA S/A",
+                "nomeFantasia": "",
+                "cnpj": "96788856000142",
+                "cnpjFormatado": "96.788.856/0001-42"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NOVONOR PARTICIPACOES E ENGENHARIA S.A. - EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "NOVONOR PARTICIPACOES E ENGENHARIA S.A. - EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "17851495000165",
+                "cnpjFormatado": "17.851.495/0001-65"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "OR EMPREENDIMENTOS IMOBILIARIOS E PARTICIPACOES S.A.",
+                "razaoSocial": "OR EMPREENDIMENTOS IMOBILIARIOS E PARTICIPACOES S.A.",
+                "nomeFantasia": "",
+                "cnpj": "10917143000116",
+                "cnpjFormatado": "10.917.143/0001-16"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ENSEADA INDUSTRIA NAVAL S.A EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "ENSEADA INDUSTRIA NAVAL S.A EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "12243301000125",
+                "cnpjFormatado": "12.243.301/0001-25"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ODEBRECHT ENGENHARIA E CONSTRUCAO S.A.",
+                "razaoSocial": "ODEBRECHT ENGENHARIA E CONSTRUCAO S.A.",
+                "nomeFantasia": "",
+                "cnpj": "19821234000128",
+                "cnpjFormatado": "19.821.234/0001-28"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "OCS SERVICES PTE. LTD.",
+                "razaoSocial": "OCS SERVICES PTE. LTD.",
+                "nomeFantasia": "OCS",
+                "cnpj": "32208526000158",
+                "cnpjFormatado": "32.208.526/0001-58"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NOVONOR ENERGIA S.A - EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "NOVONOR ENERGIA S.A - EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "13079757000164",
+                "cnpjFormatado": "13.079.757/0001-64"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "CNO S.A",
+                "razaoSocial": "CNO S.A",
+                "nomeFantasia": "",
+                "cnpj": "15102288000182",
+                "cnpjFormatado": "15.102.288/0001-82"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NOVONOR AMBIENTAL PARTICIPACOES S.A.",
+                "razaoSocial": "NOVONOR AMBIENTAL PARTICIPACOES S.A.",
+                "nomeFantasia": "",
+                "cnpj": "19014214000145",
+                "cnpjFormatado": "19.014.214/0001-45"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NOVONOR AMBIENTAL S.A",
+                "razaoSocial": "NOVONOR AMBIENTAL S.A",
+                "nomeFantasia": "",
+                "cnpj": "09437097000179",
+                "cnpjFormatado": "09.437.097/0001-79"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "OECI S.A",
+                "razaoSocial": "OECI S.A",
+                "nomeFantasia": "",
+                "cnpj": "10220039000178",
+                "cnpjFormatado": "10.220.039/0001-78"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "QUIMICA DA BAHIA INDUSTRIA E COMERCIO S A",
+                "razaoSocial": "QUIMICA DA BAHIA INDUSTRIA E COMERCIO S A",
+                "nomeFantasia": "QUIMICA DA BAHIA",
+                "cnpj": "51744803000191",
+                "cnpjFormatado": "51.744.803/0001-91"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "Odebrecht Finance Ltd. - Under Judicial Reorganization",
+                "razaoSocial": "",
+                "nomeFantasia": "",
+                "cnpj": "EXOdebrecht",
+                "cnpjFormatado": "EXOdebrecht"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ODEBRECHT COMERCIALIZADORA DE ENERGIA S.A. EM LIQUIDACAO",
+                "razaoSocial": "ODEBRECHT COMERCIALIZADORA DE ENERGIA S.A. EM LIQUIDACAO",
+                "nomeFantasia": "",
+                "cnpj": "14770709000180",
+                "cnpjFormatado": "14.770.709/0001-80"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "CURSA RJ EMPREENDIMENTO IMOBILIARIO S.A.",
+                "razaoSocial": "CURSA RJ EMPREENDIMENTO IMOBILIARIO S.A.",
+                "nomeFantasia": "",
+                "cnpj": "15136876000137",
+                "cnpjFormatado": "15.136.876/0001-37"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ABIATAR SPE EMPREENDIMENTOS IMOBILIARIOS S.A",
+                "razaoSocial": "ABIATAR SPE EMPREENDIMENTOS IMOBILIARIOS S.A",
+                "nomeFantasia": "",
+                "cnpj": "09397320000100",
+                "cnpjFormatado": "09.397.320/0001-00"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ODEBRECHT AMBIENTAL - INVESTIMENTOS E PARTICIPACOES S.A.",
+                "razaoSocial": "ODEBRECHT AMBIENTAL - INVESTIMENTOS E PARTICIPACOES S.A.",
+                "nomeFantasia": "",
+                "cnpj": "04746694000161",
+                "cnpjFormatado": "04.746.694/0001-61"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ATVOS AGROINDUSTRIAL S.A. - EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "ATVOS AGROINDUSTRIAL S.A. - EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "08636745000153",
+                "cnpjFormatado": "08.636.745/0001-53"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NOVONOR S.A - EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "NOVONOR S.A - EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "05144757000172",
+                "cnpjFormatado": "05.144.757/0001-72"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NOVONOR SERVICOS E PARTICIPACOES S.A - EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "NOVONOR SERVICOS E PARTICIPACOES S.A - EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "10904193000169",
+                "cnpjFormatado": "10.904.193/0001-69"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ODEBRECHT UTILITIES S.A.",
+                "razaoSocial": "ODEBRECHT UTILITIES S.A.",
+                "nomeFantasia": "",
+                "cnpj": "17382530000144",
+                "cnpjFormatado": "17.382.530/0001-44"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ODB International Corporation - Under Judicial Reorganization",
+                "razaoSocial": "",
+                "nomeFantasia": "",
+                "cnpj": "EXODBInternati",
+                "cnpjFormatado": "EXODBInternati"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NITROCLOR PRODUTOS QUIMICOS LTDA.",
+                "razaoSocial": "NITROCLOR PRODUTOS QUIMICOS LTDA.",
+                "nomeFantasia": "NITROCLOR",
+                "cnpj": "13185459000159",
+                "cnpjFormatado": "13.185.459/0001-59"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ODBINV S/A. EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "ODBINV S/A. EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "15105588000115",
+                "cnpjFormatado": "15.105.588/0001-15"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "EDIFICACOES ITAIGARA S/A",
+                "razaoSocial": "EDIFICACOES ITAIGARA S/A",
+                "nomeFantasia": "EDIFICACOES ITAIGARA S/A",
+                "cnpj": "14151714000105",
+                "cnpjFormatado": "14.151.714/0001-05"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "OCYAN PARTICIPACOES S.A.",
+                "razaoSocial": "OCYAN PARTICIPACOES S.A.",
+                "nomeFantasia": "",
+                "cnpj": "23075178000105",
+                "cnpjFormatado": "23.075.178/0001-05"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ODEBRECHT AMBIENTAL   INVESTIMENTOS S.A.",
+                "razaoSocial": "ODEBRECHT AMBIENTAL   INVESTIMENTOS S.A.",
+                "nomeFantasia": "",
+                "cnpj": "12682780000186",
+                "cnpjFormatado": "12.682.780/0001-86"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NOVONOR PROPERTIES E INVESTIMENTOS S.A - EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "NOVONOR PROPERTIES E INVESTIMENTOS S.A - EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "21264618000139",
+                "cnpjFormatado": "21.264.618/0001-39"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ODEBRECHT UTILITIES   INVESTIMENTOS E PARTICIPACOES S.A.",
+                "razaoSocial": "ODEBRECHT UTILITIES   INVESTIMENTOS E PARTICIPACOES S.A.",
+                "nomeFantasia": "",
+                "cnpj": "17308752000117",
+                "cnpjFormatado": "17.308.752/0001-17"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NP GESTAO DE PROPRIEDADES S.A. - EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "NP GESTAO DE PROPRIEDADES S.A. - EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "20620396000187",
+                "cnpjFormatado": "20.620.396/0001-87"
+            }
+        ],
+        "quantidade": 44
+    },
+    {
+        "id": 1000002,
+        "dataInicioAcordo": "09/07/2018",
+        "dataFimAcordo": "31/10/2039",
+        "orgaoResponsavel": "Controladoria-Geral da União",
+        "situacaoAcordo": "Em Execução",
+        "sancoes": [
+            {
+                "nomeInformadoOrgaoResponsavel": "FUNDACAO NORBERTO ODEBRECHT",
+                "razaoSocial": "FUNDACAO NORBERTO ODEBRECHT",
+                "nomeFantasia": "",
+                "cnpj": "15116155000165",
+                "cnpjFormatado": "15.116.155/0001-65"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ENSEADA INDUSTRIA NAVAL PARTICIPACOES S.A EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "ENSEADA INDUSTRIA NAVAL PARTICIPACOES S.A EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "15427668000197",
+                "cnpjFormatado": "15.427.668/0001-97"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ODB Infra-Estruturas Logísticas SGPSSA",
+                "razaoSocial": "",
+                "nomeFantasia": "",
+                "cnpj": "EXODB",
+                "cnpjFormatado": "EXODB"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ATVOS AGROINDUSTRIAL INVESTIMENTOS S.A",
+                "razaoSocial": "ATVOS AGROINDUSTRIAL INVESTIMENTOS S.A",
+                "nomeFantasia": "",
+                "cnpj": "11218273000123",
+                "cnpjFormatado": "11.218.273/0001-23"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "HORIENS CONSULTORIA E CORRETORA DE SEGUROS LTDA",
+                "razaoSocial": "HORIENS CONSULTORIA E CORRETORA DE SEGUROS LTDA",
+                "nomeFantasia": "",
+                "cnpj": "14588248000120",
+                "cnpjFormatado": "14.588.248/0001-20"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NPI S.A. - EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "NPI S.A. - EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "17337615000100",
+                "cnpjFormatado": "17.337.615/0001-00"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "OCYAN S.A.",
+                "razaoSocial": "OCYAN S.A.",
+                "nomeFantasia": "OCYAN",
+                "cnpj": "08091102000252",
+                "cnpjFormatado": "08.091.102/0002-52"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NOVONOR PARTICIPACOES E INVESTIMENTOS S.A. - EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "NOVONOR PARTICIPACOES E INVESTIMENTOS S.A. - EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "07668258000100",
+                "cnpjFormatado": "07.668.258/0001-00"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "OTP S.A.",
+                "razaoSocial": "OTP S.A.",
+                "nomeFantasia": "",
+                "cnpj": "12251483000186",
+                "cnpjFormatado": "12.251.483/0001-86"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "KIEPPE PARTICIPACOES E ADMINISTRACAO LTDA EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "KIEPPE PARTICIPACOES E ADMINISTRACAO LTDA EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "04215837000109",
+                "cnpjFormatado": "04.215.837/0001-09"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NOVONOR DEFESA E TECNOLOGIA S.A.",
+                "razaoSocial": "NOVONOR DEFESA E TECNOLOGIA S.A.",
+                "nomeFantasia": "",
+                "cnpj": "13688755000172",
+                "cnpjFormatado": "13.688.755/0001-72"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "VEXTY",
+                "razaoSocial": "VEXTY",
+                "nomeFantasia": "VEXTY",
+                "cnpj": "00571135000107",
+                "cnpjFormatado": "00.571.135/0001-07"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NOVONOR ENERGIA INVESTIMENTOS S.A. - EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "NOVONOR ENERGIA INVESTIMENTOS S.A. - EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "20541146000151",
+                "cnpjFormatado": "20.541.146/0001-51"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NSP INVESTIMENTOS S.A. - EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "NSP INVESTIMENTOS S.A. - EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "22606673000122",
+                "cnpjFormatado": "22.606.673/0001-22"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "FAZENDAS REUNIDAS VALE DO JULIANA S/A",
+                "razaoSocial": "FAZENDAS REUNIDAS VALE DO JULIANA S/A",
+                "nomeFantasia": "",
+                "cnpj": "96788856000142",
+                "cnpjFormatado": "96.788.856/0001-42"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NOVONOR PARTICIPACOES E ENGENHARIA S.A. - EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "NOVONOR PARTICIPACOES E ENGENHARIA S.A. - EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "17851495000165",
+                "cnpjFormatado": "17.851.495/0001-65"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "OR EMPREENDIMENTOS IMOBILIARIOS E PARTICIPACOES S.A.",
+                "razaoSocial": "OR EMPREENDIMENTOS IMOBILIARIOS E PARTICIPACOES S.A.",
+                "nomeFantasia": "",
+                "cnpj": "10917143000116",
+                "cnpjFormatado": "10.917.143/0001-16"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ENSEADA INDUSTRIA NAVAL S.A EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "ENSEADA INDUSTRIA NAVAL S.A EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "12243301000125",
+                "cnpjFormatado": "12.243.301/0001-25"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ODEBRECHT ENGENHARIA E CONSTRUCAO S.A.",
+                "razaoSocial": "ODEBRECHT ENGENHARIA E CONSTRUCAO S.A.",
+                "nomeFantasia": "",
+                "cnpj": "19821234000128",
+                "cnpjFormatado": "19.821.234/0001-28"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "OCS SERVICES PTE. LTD.",
+                "razaoSocial": "OCS SERVICES PTE. LTD.",
+                "nomeFantasia": "OCS",
+                "cnpj": "32208526000158",
+                "cnpjFormatado": "32.208.526/0001-58"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NOVONOR ENERGIA S.A - EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "NOVONOR ENERGIA S.A - EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "13079757000164",
+                "cnpjFormatado": "13.079.757/0001-64"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "CNO S.A",
+                "razaoSocial": "CNO S.A",
+                "nomeFantasia": "",
+                "cnpj": "15102288000182",
+                "cnpjFormatado": "15.102.288/0001-82"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NOVONOR AMBIENTAL PARTICIPACOES S.A.",
+                "razaoSocial": "NOVONOR AMBIENTAL PARTICIPACOES S.A.",
+                "nomeFantasia": "",
+                "cnpj": "19014214000145",
+                "cnpjFormatado": "19.014.214/0001-45"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NOVONOR AMBIENTAL S.A",
+                "razaoSocial": "NOVONOR AMBIENTAL S.A",
+                "nomeFantasia": "",
+                "cnpj": "09437097000179",
+                "cnpjFormatado": "09.437.097/0001-79"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "OECI S.A",
+                "razaoSocial": "OECI S.A",
+                "nomeFantasia": "",
+                "cnpj": "10220039000178",
+                "cnpjFormatado": "10.220.039/0001-78"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "QUIMICA DA BAHIA INDUSTRIA E COMERCIO S A",
+                "razaoSocial": "QUIMICA DA BAHIA INDUSTRIA E COMERCIO S A",
+                "nomeFantasia": "QUIMICA DA BAHIA",
+                "cnpj": "51744803000191",
+                "cnpjFormatado": "51.744.803/0001-91"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "Odebrecht Finance Ltd. - Under Judicial Reorganization",
+                "razaoSocial": "",
+                "nomeFantasia": "",
+                "cnpj": "EXOdebrecht",
+                "cnpjFormatado": "EXOdebrecht"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ODEBRECHT COMERCIALIZADORA DE ENERGIA S.A. EM LIQUIDACAO",
+                "razaoSocial": "ODEBRECHT COMERCIALIZADORA DE ENERGIA S.A. EM LIQUIDACAO",
+                "nomeFantasia": "",
+                "cnpj": "14770709000180",
+                "cnpjFormatado": "14.770.709/0001-80"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "CURSA RJ EMPREENDIMENTO IMOBILIARIO S.A.",
+                "razaoSocial": "CURSA RJ EMPREENDIMENTO IMOBILIARIO S.A.",
+                "nomeFantasia": "",
+                "cnpj": "15136876000137",
+                "cnpjFormatado": "15.136.876/0001-37"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ABIATAR SPE EMPREENDIMENTOS IMOBILIARIOS S.A",
+                "razaoSocial": "ABIATAR SPE EMPREENDIMENTOS IMOBILIARIOS S.A",
+                "nomeFantasia": "",
+                "cnpj": "09397320000100",
+                "cnpjFormatado": "09.397.320/0001-00"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ODEBRECHT AMBIENTAL - INVESTIMENTOS E PARTICIPACOES S.A.",
+                "razaoSocial": "ODEBRECHT AMBIENTAL - INVESTIMENTOS E PARTICIPACOES S.A.",
+                "nomeFantasia": "",
+                "cnpj": "04746694000161",
+                "cnpjFormatado": "04.746.694/0001-61"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ATVOS AGROINDUSTRIAL S.A. - EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "ATVOS AGROINDUSTRIAL S.A. - EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "08636745000153",
+                "cnpjFormatado": "08.636.745/0001-53"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NOVONOR S.A - EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "NOVONOR S.A - EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "05144757000172",
+                "cnpjFormatado": "05.144.757/0001-72"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NOVONOR SERVICOS E PARTICIPACOES S.A - EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "NOVONOR SERVICOS E PARTICIPACOES S.A - EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "10904193000169",
+                "cnpjFormatado": "10.904.193/0001-69"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ODEBRECHT UTILITIES S.A.",
+                "razaoSocial": "ODEBRECHT UTILITIES S.A.",
+                "nomeFantasia": "",
+                "cnpj": "17382530000144",
+                "cnpjFormatado": "17.382.530/0001-44"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ODB International Corporation - Under Judicial Reorganization",
+                "razaoSocial": "",
+                "nomeFantasia": "",
+                "cnpj": "EXODBInternati",
+                "cnpjFormatado": "EXODBInternati"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NITROCLOR PRODUTOS QUIMICOS LTDA.",
+                "razaoSocial": "NITROCLOR PRODUTOS QUIMICOS LTDA.",
+                "nomeFantasia": "NITROCLOR",
+                "cnpj": "13185459000159",
+                "cnpjFormatado": "13.185.459/0001-59"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ODBINV S/A. EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "ODBINV S/A. EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "15105588000115",
+                "cnpjFormatado": "15.105.588/0001-15"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "EDIFICACOES ITAIGARA S/A",
+                "razaoSocial": "EDIFICACOES ITAIGARA S/A",
+                "nomeFantasia": "EDIFICACOES ITAIGARA S/A",
+                "cnpj": "14151714000105",
+                "cnpjFormatado": "14.151.714/0001-05"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "OCYAN PARTICIPACOES S.A.",
+                "razaoSocial": "OCYAN PARTICIPACOES S.A.",
+                "nomeFantasia": "",
+                "cnpj": "23075178000105",
+                "cnpjFormatado": "23.075.178/0001-05"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ODEBRECHT AMBIENTAL   INVESTIMENTOS S.A.",
+                "razaoSocial": "ODEBRECHT AMBIENTAL   INVESTIMENTOS S.A.",
+                "nomeFantasia": "",
+                "cnpj": "12682780000186",
+                "cnpjFormatado": "12.682.780/0001-86"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NOVONOR PROPERTIES E INVESTIMENTOS S.A - EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "NOVONOR PROPERTIES E INVESTIMENTOS S.A - EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "21264618000139",
+                "cnpjFormatado": "21.264.618/0001-39"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ODEBRECHT UTILITIES   INVESTIMENTOS E PARTICIPACOES S.A.",
+                "razaoSocial": "ODEBRECHT UTILITIES   INVESTIMENTOS E PARTICIPACOES S.A.",
+                "nomeFantasia": "",
+                "cnpj": "17308752000117",
+                "cnpjFormatado": "17.308.752/0001-17"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NP GESTAO DE PROPRIEDADES S.A. - EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "NP GESTAO DE PROPRIEDADES S.A. - EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "20620396000187",
+                "cnpjFormatado": "20.620.396/0001-87"
+            }
+        ],
+        "quantidade": 44
+    },
+    {
+        "id": 1000002,
+        "dataInicioAcordo": "09/07/2018",
+        "dataFimAcordo": "31/10/2039",
+        "orgaoResponsavel": "Controladoria-Geral da União",
+        "situacaoAcordo": "Em Execução",
+        "sancoes": [
+            {
+                "nomeInformadoOrgaoResponsavel": "FUNDACAO NORBERTO ODEBRECHT",
+                "razaoSocial": "FUNDACAO NORBERTO ODEBRECHT",
+                "nomeFantasia": "",
+                "cnpj": "15116155000165",
+                "cnpjFormatado": "15.116.155/0001-65"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ENSEADA INDUSTRIA NAVAL PARTICIPACOES S.A EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "ENSEADA INDUSTRIA NAVAL PARTICIPACOES S.A EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "15427668000197",
+                "cnpjFormatado": "15.427.668/0001-97"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ODB Infra-Estruturas Logísticas SGPSSA",
+                "razaoSocial": "",
+                "nomeFantasia": "",
+                "cnpj": "EXODB",
+                "cnpjFormatado": "EXODB"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ATVOS AGROINDUSTRIAL INVESTIMENTOS S.A",
+                "razaoSocial": "ATVOS AGROINDUSTRIAL INVESTIMENTOS S.A",
+                "nomeFantasia": "",
+                "cnpj": "11218273000123",
+                "cnpjFormatado": "11.218.273/0001-23"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "HORIENS CONSULTORIA E CORRETORA DE SEGUROS LTDA",
+                "razaoSocial": "HORIENS CONSULTORIA E CORRETORA DE SEGUROS LTDA",
+                "nomeFantasia": "",
+                "cnpj": "14588248000120",
+                "cnpjFormatado": "14.588.248/0001-20"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NPI S.A. - EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "NPI S.A. - EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "17337615000100",
+                "cnpjFormatado": "17.337.615/0001-00"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "OCYAN S.A.",
+                "razaoSocial": "OCYAN S.A.",
+                "nomeFantasia": "OCYAN",
+                "cnpj": "08091102000252",
+                "cnpjFormatado": "08.091.102/0002-52"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NOVONOR PARTICIPACOES E INVESTIMENTOS S.A. - EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "NOVONOR PARTICIPACOES E INVESTIMENTOS S.A. - EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "07668258000100",
+                "cnpjFormatado": "07.668.258/0001-00"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "OTP S.A.",
+                "razaoSocial": "OTP S.A.",
+                "nomeFantasia": "",
+                "cnpj": "12251483000186",
+                "cnpjFormatado": "12.251.483/0001-86"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "KIEPPE PARTICIPACOES E ADMINISTRACAO LTDA EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "KIEPPE PARTICIPACOES E ADMINISTRACAO LTDA EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "04215837000109",
+                "cnpjFormatado": "04.215.837/0001-09"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NOVONOR DEFESA E TECNOLOGIA S.A.",
+                "razaoSocial": "NOVONOR DEFESA E TECNOLOGIA S.A.",
+                "nomeFantasia": "",
+                "cnpj": "13688755000172",
+                "cnpjFormatado": "13.688.755/0001-72"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "VEXTY",
+                "razaoSocial": "VEXTY",
+                "nomeFantasia": "VEXTY",
+                "cnpj": "00571135000107",
+                "cnpjFormatado": "00.571.135/0001-07"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NOVONOR ENERGIA INVESTIMENTOS S.A. - EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "NOVONOR ENERGIA INVESTIMENTOS S.A. - EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "20541146000151",
+                "cnpjFormatado": "20.541.146/0001-51"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NSP INVESTIMENTOS S.A. - EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "NSP INVESTIMENTOS S.A. - EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "22606673000122",
+                "cnpjFormatado": "22.606.673/0001-22"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "FAZENDAS REUNIDAS VALE DO JULIANA S/A",
+                "razaoSocial": "FAZENDAS REUNIDAS VALE DO JULIANA S/A",
+                "nomeFantasia": "",
+                "cnpj": "96788856000142",
+                "cnpjFormatado": "96.788.856/0001-42"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NOVONOR PARTICIPACOES E ENGENHARIA S.A. - EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "NOVONOR PARTICIPACOES E ENGENHARIA S.A. - EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "17851495000165",
+                "cnpjFormatado": "17.851.495/0001-65"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "OR EMPREENDIMENTOS IMOBILIARIOS E PARTICIPACOES S.A.",
+                "razaoSocial": "OR EMPREENDIMENTOS IMOBILIARIOS E PARTICIPACOES S.A.",
+                "nomeFantasia": "",
+                "cnpj": "10917143000116",
+                "cnpjFormatado": "10.917.143/0001-16"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ENSEADA INDUSTRIA NAVAL S.A EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "ENSEADA INDUSTRIA NAVAL S.A EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "12243301000125",
+                "cnpjFormatado": "12.243.301/0001-25"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ODEBRECHT ENGENHARIA E CONSTRUCAO S.A.",
+                "razaoSocial": "ODEBRECHT ENGENHARIA E CONSTRUCAO S.A.",
+                "nomeFantasia": "",
+                "cnpj": "19821234000128",
+                "cnpjFormatado": "19.821.234/0001-28"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "OCS SERVICES PTE. LTD.",
+                "razaoSocial": "OCS SERVICES PTE. LTD.",
+                "nomeFantasia": "OCS",
+                "cnpj": "32208526000158",
+                "cnpjFormatado": "32.208.526/0001-58"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NOVONOR ENERGIA S.A - EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "NOVONOR ENERGIA S.A - EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "13079757000164",
+                "cnpjFormatado": "13.079.757/0001-64"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "CNO S.A",
+                "razaoSocial": "CNO S.A",
+                "nomeFantasia": "",
+                "cnpj": "15102288000182",
+                "cnpjFormatado": "15.102.288/0001-82"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NOVONOR AMBIENTAL PARTICIPACOES S.A.",
+                "razaoSocial": "NOVONOR AMBIENTAL PARTICIPACOES S.A.",
+                "nomeFantasia": "",
+                "cnpj": "19014214000145",
+                "cnpjFormatado": "19.014.214/0001-45"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NOVONOR AMBIENTAL S.A",
+                "razaoSocial": "NOVONOR AMBIENTAL S.A",
+                "nomeFantasia": "",
+                "cnpj": "09437097000179",
+                "cnpjFormatado": "09.437.097/0001-79"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "OECI S.A",
+                "razaoSocial": "OECI S.A",
+                "nomeFantasia": "",
+                "cnpj": "10220039000178",
+                "cnpjFormatado": "10.220.039/0001-78"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "QUIMICA DA BAHIA INDUSTRIA E COMERCIO S A",
+                "razaoSocial": "QUIMICA DA BAHIA INDUSTRIA E COMERCIO S A",
+                "nomeFantasia": "QUIMICA DA BAHIA",
+                "cnpj": "51744803000191",
+                "cnpjFormatado": "51.744.803/0001-91"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "Odebrecht Finance Ltd. - Under Judicial Reorganization",
+                "razaoSocial": "",
+                "nomeFantasia": "",
+                "cnpj": "EXOdebrecht",
+                "cnpjFormatado": "EXOdebrecht"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ODEBRECHT COMERCIALIZADORA DE ENERGIA S.A. EM LIQUIDACAO",
+                "razaoSocial": "ODEBRECHT COMERCIALIZADORA DE ENERGIA S.A. EM LIQUIDACAO",
+                "nomeFantasia": "",
+                "cnpj": "14770709000180",
+                "cnpjFormatado": "14.770.709/0001-80"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "CURSA RJ EMPREENDIMENTO IMOBILIARIO S.A.",
+                "razaoSocial": "CURSA RJ EMPREENDIMENTO IMOBILIARIO S.A.",
+                "nomeFantasia": "",
+                "cnpj": "15136876000137",
+                "cnpjFormatado": "15.136.876/0001-37"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ABIATAR SPE EMPREENDIMENTOS IMOBILIARIOS S.A",
+                "razaoSocial": "ABIATAR SPE EMPREENDIMENTOS IMOBILIARIOS S.A",
+                "nomeFantasia": "",
+                "cnpj": "09397320000100",
+                "cnpjFormatado": "09.397.320/0001-00"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ODEBRECHT AMBIENTAL - INVESTIMENTOS E PARTICIPACOES S.A.",
+                "razaoSocial": "ODEBRECHT AMBIENTAL - INVESTIMENTOS E PARTICIPACOES S.A.",
+                "nomeFantasia": "",
+                "cnpj": "04746694000161",
+                "cnpjFormatado": "04.746.694/0001-61"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ATVOS AGROINDUSTRIAL S.A. - EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "ATVOS AGROINDUSTRIAL S.A. - EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "08636745000153",
+                "cnpjFormatado": "08.636.745/0001-53"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NOVONOR S.A - EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "NOVONOR S.A - EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "05144757000172",
+                "cnpjFormatado": "05.144.757/0001-72"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NOVONOR SERVICOS E PARTICIPACOES S.A - EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "NOVONOR SERVICOS E PARTICIPACOES S.A - EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "10904193000169",
+                "cnpjFormatado": "10.904.193/0001-69"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ODEBRECHT UTILITIES S.A.",
+                "razaoSocial": "ODEBRECHT UTILITIES S.A.",
+                "nomeFantasia": "",
+                "cnpj": "17382530000144",
+                "cnpjFormatado": "17.382.530/0001-44"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ODB International Corporation - Under Judicial Reorganization",
+                "razaoSocial": "",
+                "nomeFantasia": "",
+                "cnpj": "EXODBInternati",
+                "cnpjFormatado": "EXODBInternati"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NITROCLOR PRODUTOS QUIMICOS LTDA.",
+                "razaoSocial": "NITROCLOR PRODUTOS QUIMICOS LTDA.",
+                "nomeFantasia": "NITROCLOR",
+                "cnpj": "13185459000159",
+                "cnpjFormatado": "13.185.459/0001-59"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ODBINV S/A. EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "ODBINV S/A. EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "15105588000115",
+                "cnpjFormatado": "15.105.588/0001-15"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "EDIFICACOES ITAIGARA S/A",
+                "razaoSocial": "EDIFICACOES ITAIGARA S/A",
+                "nomeFantasia": "EDIFICACOES ITAIGARA S/A",
+                "cnpj": "14151714000105",
+                "cnpjFormatado": "14.151.714/0001-05"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "OCYAN PARTICIPACOES S.A.",
+                "razaoSocial": "OCYAN PARTICIPACOES S.A.",
+                "nomeFantasia": "",
+                "cnpj": "23075178000105",
+                "cnpjFormatado": "23.075.178/0001-05"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ODEBRECHT AMBIENTAL   INVESTIMENTOS S.A.",
+                "razaoSocial": "ODEBRECHT AMBIENTAL   INVESTIMENTOS S.A.",
+                "nomeFantasia": "",
+                "cnpj": "12682780000186",
+                "cnpjFormatado": "12.682.780/0001-86"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NOVONOR PROPERTIES E INVESTIMENTOS S.A - EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "NOVONOR PROPERTIES E INVESTIMENTOS S.A - EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "21264618000139",
+                "cnpjFormatado": "21.264.618/0001-39"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ODEBRECHT UTILITIES   INVESTIMENTOS E PARTICIPACOES S.A.",
+                "razaoSocial": "ODEBRECHT UTILITIES   INVESTIMENTOS E PARTICIPACOES S.A.",
+                "nomeFantasia": "",
+                "cnpj": "17308752000117",
+                "cnpjFormatado": "17.308.752/0001-17"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "NP GESTAO DE PROPRIEDADES S.A. - EM RECUPERACAO JUDICIAL",
+                "razaoSocial": "NP GESTAO DE PROPRIEDADES S.A. - EM RECUPERACAO JUDICIAL",
+                "nomeFantasia": "",
+                "cnpj": "20620396000187",
+                "cnpjFormatado": "20.620.396/0001-87"
+            }
+        ],
+        "quantidade": 44
+    },
+    {
+        "id": 2100003,
+        "dataInicioAcordo": "28/12/2022",
+        "dataFimAcordo": "30/06/2027",
+        "orgaoResponsavel": "Controladoria-Geral da União",
+        "situacaoAcordo": "Em Execução",
+        "sancoes": [
+            {
+                "nomeInformadoOrgaoResponsavel": "BRF S.A.",
+                "razaoSocial": "BRF S.A.",
+                "nomeFantasia": "",
+                "cnpj": "01838723000127",
+                "cnpjFormatado": "01.838.723/0001-27"
+            }
+        ],
+        "quantidade": 1
+    },
+    {
+        "id": 2000001,
+        "dataInicioAcordo": "20/04/2022",
+        "dataFimAcordo": "12/10/2023",
+        "orgaoResponsavel": "Controladoria-Geral da União",
+        "situacaoAcordo": "Em Execução",
+        "sancoes": [
+            {
+                "nomeInformadoOrgaoResponsavel": "STERICYCLE INC.",
+                "razaoSocial": "",
+                "nomeFantasia": "",
+                "cnpj": "EXSTERICYCLE",
+                "cnpjFormatado": "EXSTERICYCLE"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "ABORGAMA DO BRASIL LTDA",
+                "razaoSocial": "ABORGAMA DO BRASIL LTDA",
+                "nomeFantasia": "",
+                "cnpj": "05462743000105",
+                "cnpjFormatado": "05.462.743/0001-05"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "B-GREEN PARTICIPACOES LTDA.",
+                "razaoSocial": "B-GREEN PARTICIPACOES LTDA.",
+                "nomeFantasia": "",
+                "cnpj": "30887092000134",
+                "cnpjFormatado": "30.887.092/0001-34"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "B-GREEN GESTAO AMBIENTAL LTDA",
+                "razaoSocial": "B-GREEN GESTAO AMBIENTAL LTDA",
+                "nomeFantasia": "STERICYCLE",
+                "cnpj": "01568077000125",
+                "cnpjFormatado": "01.568.077/0001-25"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "STERICYCLE INTERNATIONAL, LLC",
+                "razaoSocial": "",
+                "nomeFantasia": "",
+                "cnpj": "EXSTERICYCLEIN",
+                "cnpjFormatado": "EXSTERICYCLEIN"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "B GREEN NOVAS PARTICIPACOES LTDA",
+                "razaoSocial": "B GREEN NOVAS PARTICIPACOES LTDA",
+                "nomeFantasia": "",
+                "cnpj": "11568295000113",
+                "cnpjFormatado": "11.568.295/0001-13"
+            }
+        ],
+        "quantidade": 6
+    },
+    {
+        "id": 1900001,
+        "dataInicioAcordo": "31/05/2022",
+        "dataFimAcordo": "30/11/2023",
+        "orgaoResponsavel": "Controladoria-Geral da União",
+        "situacaoAcordo": "Em Execução",
+        "sancoes": [
+            {
+                "nomeInformadoOrgaoResponsavel": "MONTE CRISTALINA PARTICIPACOES LTDA.",
+                "razaoSocial": "MONTE CRISTALINA PARTICIPACOES LTDA.",
+                "nomeFantasia": "",
+                "cnpj": "00631348000187",
+                "cnpjFormatado": "00.631.348/0001-87"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+                "razaoSocial": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+                "nomeFantasia": "MANTECORP FARMASA / MANTECORP SKINCARE / FEMEVITA",
+                "cnpj": "61082426000207",
+                "cnpjFormatado": "61.082.426/0002-07"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "BRAINFARMA INDUSTRIA QUIMICA E FARMACEUTICA S.A.",
+                "razaoSocial": "BRAINFARMA INDUSTRIA QUIMICA E FARMACEUTICA S.A.",
+                "nomeFantasia": "NEO QUIMICA",
+                "cnpj": "05161069000110",
+                "cnpjFormatado": "05.161.069/0001-10"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "HYPERA S.A.",
+                "razaoSocial": "HYPERA S.A.",
+                "nomeFantasia": "HYPERA PHARMA",
+                "cnpj": "02932074000191",
+                "cnpjFormatado": "02.932.074/0001-91"
+            }
+        ],
+        "quantidade": 4
+    },
+    {
+        "id": 1300002,
+        "dataInicioAcordo": "07/06/2021",
+        "dataFimAcordo": "30/06/2041",
+        "orgaoResponsavel": "Controladoria-Geral da União",
+        "situacaoAcordo": "Em Execução",
+        "sancoes": [
+            {
+                "nomeInformadoOrgaoResponsavel": "CEPTIS INDUSTRIA E COMERCIO DE TINTAS E SISTEMAS SA",
+                "razaoSocial": "CEPTIS INDUSTRIA E COMERCIO DE TINTAS E SISTEMAS SA",
+                "nomeFantasia": "",
+                "cnpj": "28721821000136",
+                "cnpjFormatado": "28.721.821/0001-36"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "SICPA BRASIL INDUSTRIA DE TINTAS E SISTEMAS LTDA",
+                "razaoSocial": "SICPA BRASIL INDUSTRIA DE TINTAS E SISTEMAS LTDA",
+                "nomeFantasia": "",
+                "cnpj": "42596973000185",
+                "cnpjFormatado": "42.596.973/0001-85"
+            },
+            {
+                "nomeInformadoOrgaoResponsavel": "SICPA HOLDING SA",
+                "razaoSocial": "",
+                "nomeFantasia": "",
+                "cnpj": "EXSICPA",
+                "cnpjFormatado": "EXSICPA"
+            }
+        ],
+        "quantidade": 3
+    }
+]

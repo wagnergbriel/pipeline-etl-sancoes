@@ -7,7 +7,7 @@ import json
 
 class SancoesAPI:
     def __init__(self, name_sancao):
-        self.type_sancao = {"ceis":1, "cnpe":2, "cepim":5}
+        self.type_sancao = {"ceis":1, "cnep":2, "cepim":5}
         self.base_url = f'https://portaldatransparencia.gov.br/sancoes/consulta/resultado?paginacaoSimples=true&tamanhoPagina=100000&offset=0&direcaoOrdenacao=asc&colunaOrdenacao=nomeSancionado&cadastro={self.type_sancao.get(name_sancao)}&colunasSelecionadas=linkDetalhamento%2Ccadastro%2CcpfCnpj%2CnomeSancionado%2CufSancionado%2Corgao%2CcategoriaSancao%2CdataPublicacao%2CvalorMulta%2Cquantidade&_=1695667939978'
         self.headers = HEADERS
         self.datetime_now = datetime.now().strftime("%m%Y")
@@ -59,27 +59,4 @@ class PortalTransparenciaAPI():
         with open(path_full, 'w', encoding='utf-8') as file_json:
             json.dump(dataset, file_json, ensure_ascii=False, indent=4)
         print(f"Create file Json in {path_full}")
-
-
-
-
-"""api_cnep = SancoesAPI(name_sancao=name_sancao)
-data_cnep = api_cnep.get_sancoes()
-api_cnep.save_json_file(dataset=data_cnep,
-                            path_dir=path_datas_cnep,
-                            file_name="cnep"
-                            )
-
-api_cepim = SancoesAPI(name_sancao=name_sancao)
-data_cepim = api_cepim.get_sancoes()
-api_cepim.save_json_file(dataset=data_cepim,
-                            path_dir=path_datas_cepim,
-                            file_name="cepim"
-                            )
-
-api_portal = PortalTransparenciaAPI(type_database="acordos-leniencia")
-datas = api_portal.get_all_data()
-api_portal.save_json_file(dataset=datas,
-                            path_dir=path_datas_acordo_leniencia,
-                            file_name="acordo_leniencia"
-                            )"""
+        
